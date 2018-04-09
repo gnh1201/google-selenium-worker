@@ -1,0 +1,11 @@
+C:\Users\남현\source\repos\GUnit\GUnit\bin\Debug\GUnit.exe.config
+C:\Users\남현\source\repos\GUnit\GUnit\bin\Debug\GUnit.exe
+C:\Users\남현\source\repos\GUnit\GUnit\bin\Debug\GUnit.pdb
+C:\Users\남현\source\repos\GUnit\GUnit\obj\Debug\GUnit.csprojResolveAssemblyReference.cache
+C:\Users\남현\source\repos\GUnit\GUnit\obj\Debug\GUnit.csproj.CoreCompileInputs.cache
+C:\Users\남현\source\repos\GUnit\GUnit\obj\Debug\GUnit.exe
+C:\Users\남현\source\repos\GUnit\GUnit\obj\Debug\GUnit.pdb
+C:\Users\남현\source\repos\GUnit\GUnit\bin\Debug\WebDriver.dll
+C:\Users\남현\source\repos\GUnit\GUnit\bin\Debug\WebDriver.xml
+C:\Users\남현\source\repos\GUnit\GUnit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\남현\source\repos\GUnit\GUnit\bin\Debug\Newtonsoft.Json.xml

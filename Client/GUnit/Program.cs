@@ -14,7 +14,7 @@ namespace GUnit
 {
     class Program
     {
-        private static string baseRemoteUrl = "http://127.0.0.1:3000";
+        private static string baseRemoteUrl = "http://127.0.0.1:3000/";
         private static string worksListUrl = baseRemoteUrl + "receiver/works";
         private static string worksSetStatusUrl = baseRemoteUrl + "receiver/setstatus";
         private static int checkIntervalSeconds = 1;
